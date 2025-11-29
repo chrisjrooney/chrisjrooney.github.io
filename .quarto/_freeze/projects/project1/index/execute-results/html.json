@@ -1,8 +1,8 @@
 {
-  "hash": "fc2cbc945b2d71373cc7f719a06d42bd",
+  "hash": "89a616a90b438687ccce8b3f02f1856a",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Analysis of Cars\"\nauthor: Your Name\ndate: today\n---\n\n\n\n# Header\n\nLet's investigate the relationship between fuel efficiency (`mpg`) and engine displacement (`disp`) from the `mtcars` dataset. Those variables have a correlation of -0.85.\n\n## Sub-Header\n\nHere is a plot:\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\n```\n\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning: package 'tidyverse' was built under R version 4.4.2\n```\n\n\n:::\n\n```{.r .cell-code}\ndata(mtcars)\nmtcars |>\n  ggplot(aes(mpg, disp)) + \n  geom_point(color=\"dodgerblue4\", size=2)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n---\n",
+    "markdown": "---\ntitle: \"Analysis of Cars\"\nauthor: Your Name\ndate: today\n---\n\n\n\n# Header\n\nLet's investigate the relationship between fuel efficiency (`mpg`) and engine displacement (`disp`) from the `mtcars` dataset. Those variables have a correlation of -0.85.\n\n## Sub-Header\n\nHere is a plot:\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\n```\n\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning: package 'tidyverse' was built under R version 4.4.2\n```\n\n\n:::\n\n```{.r .cell-code}\ndata(mtcars)\nmtcars |>\n  ggplot(aes(mpg, disp)) + \n  geom_point(color=\"dodgerblue4\", size=2)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n\n------------------------------------------------------------------------\n",
     "supporting": [
       "index_files"
     ],
