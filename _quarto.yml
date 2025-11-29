@@ -12,6 +12,10 @@ website:
         text: Resume
       - href: projects.qmd
         text: Projects
+
+  page-footer:
+      background: light
+      left: Copyright 2025, Chris Rooney
     
 
 format:
