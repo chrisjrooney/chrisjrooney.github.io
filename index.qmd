@@ -10,6 +10,8 @@ about:
       href: mailto:chris.rooney1@gmail.com
     - icon: linkedin
       href: https://www.linkedin.com/in/chris-rooney90
+    - icon: github
+      href: https://github.com/chrisjrooney
 ---
 
 ------------------------------------------------------------------------
