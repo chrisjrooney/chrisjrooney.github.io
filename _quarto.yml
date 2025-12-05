@@ -15,7 +15,8 @@ website:
 
   page-footer:
       background: light
-      left: Chris Rooney
+      center:
+            - text: "Copyright Chris Rooney. All rights reserved."
     
 
 format:
