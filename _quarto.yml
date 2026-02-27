@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Chris' Website"
+  navbar:
+    right:
+      - href: index.qmd
+        text: About
+      - href: resume.qmd
+        text: Resume
+      - href: projects.qmd
+        text: Projects
+
+  page-footer:
+      background: light
+      center:
+            - text: "Copyright Chris Rooney. All rights reserved."
+    
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
