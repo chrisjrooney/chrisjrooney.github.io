@@ -6,7 +6,7 @@ website:
   title: "Chris' Website"
   navbar:
     right:
-      - href: index.qmd
+      - href: about.qmd
         text: About
       - href: resume.qmd
         text: Resume
