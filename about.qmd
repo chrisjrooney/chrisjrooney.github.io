@@ -2,8 +2,9 @@
 title: "About"
 ---
 
-About this site
+I'm an economist and research specialist based in Cape Town with over 10 years of experience turning complex economic data into clear, actionable insights. My career has spanned public policy, international trade, and labour market research — most recently as a Researcher at UCT's Development Policy Research Unit, where I produced work for clients ranging from South African government bodies to the United Nations.
 
-```{r}
-1 + 1
-```
+I specialise in trade and export market analysis, economic modelling, and evidence-based policy formulation, with strong technical skills in Stata, R, and data analytics. I'm passionate about making economic research accessible — whether that means writing a policy brief for a minister or presenting forecasts to a non-technical audience.
+
+These days I'm working as an independent economic consultant, leading projects end-to-end from proposal to delivery. I also assess postgraduate work in public policy at 2U, which keeps me sharp on the academic side of things.
+If you're looking for rigorous economic research, sector analysis, or data-driven insights — I'd love to connect.
